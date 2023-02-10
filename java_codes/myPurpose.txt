@@ -1,3 +1,0 @@
-This is a code that randomly generates a maze of any given size.
-It uses a 2d char array to represent the maze.
-It uses recursive  backtracking algorithm to generate the maze.
